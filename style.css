@@ -12,14 +12,15 @@ body {
   min-height: 100vh;
 }
 .box {
-  background-color: white;
+  background-color: #1d2d2f;
   padding: 30px;
+  border-radius: 10px;
 }
 .box h2 {
   margin-bottom: 40px;
   text-align: center;
   font-size: 26px;
-  color: #015a98;
+  color: #ffffff;
   font-family: sans-serif;
 }
 input {
